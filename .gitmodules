@@ -1,0 +1,3 @@
+[submodule "seq2seq-pytorch-test"]
+	path = seq2seq-pytorch-test
+	url = https://github.com/zhuangh/seq2seq-pytorch-example.git
